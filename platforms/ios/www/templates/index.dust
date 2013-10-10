@@ -1,0 +1,4 @@
+<div class="greeting">
+    Hello, {recipient.fullName}!
+    <a href="http://hack-app.aws.af.cm/contact">Contact</a>
+</div>

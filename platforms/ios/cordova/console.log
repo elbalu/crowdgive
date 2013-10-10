@@ -1,0 +1,169 @@
+2013-10-08 14:06:58.544 HelloWorld[53052:c07] Multi-tasking -> Device: YES, App: YES
+2013-10-08 14:06:58.852 HelloWorld[53052:c07] Resetting plugins due to page load.
+2013-10-08 14:06:58.964 HelloWorld[53052:c07] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8754C577-4804-4432-999C-06BFF6D0484F/HelloWorld.app/www/index.html
+2013-10-08 14:13:48.572 HelloWorld[53958:c07] Multi-tasking -> Device: YES, App: YES
+2013-10-08 14:13:48.627 HelloWorld[53958:c07] Resetting plugins due to page load.
+2013-10-08 14:13:48.673 HelloWorld[53958:c07] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8754C577-4804-4432-999C-06BFF6D0484F/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-10-08 14:25:42.332 HelloWorld[55363:c07] Multi-tasking -> Device: YES, App: YES
+2013-10-08 14:25:42.570 HelloWorld[55363:c07] Resetting plugins due to page load.
+2013-10-08 14:25:42.671 HelloWorld[55363:c07] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8754C577-4804-4432-999C-06BFF6D0484F/HelloWorld.app/www/index.html
+2013-10-08 14:34:17.452 HelloWorld[57511:c07] Multi-tasking -> Device: YES, App: YES
+2013-10-08 14:34:17.488 HelloWorld[57511:c07] Resetting plugins due to page load.
+2013-10-08 14:34:17.529 HelloWorld[57511:c07] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8754C577-4804-4432-999C-06BFF6D0484F/HelloWorld.app/www/index.html
+2013-10-08 17:55:33.537 HelloWorld[1826:c07] Multi-tasking -> Device: YES, App: YES
+2013-10-08 17:55:33.737 HelloWorld[1826:c07] Resetting plugins due to page load.
+2013-10-08 17:55:33.831 HelloWorld[1826:c07] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/8754C577-4804-4432-999C-06BFF6D0484F/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-10-08 19:50:05.573 HelloWorld[3323:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-08 19:50:05.897 HelloWorld[3323:a0b] Resetting plugins due to page load.
+2013-10-08 19:50:05.948 HelloWorld[3323:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-08 23:13:34.483 HelloWorld[6159:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-08 23:13:34.595 HelloWorld[6159:a0b] Resetting plugins due to page load.
+2013-10-08 23:13:34.643 HelloWorld[6159:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-08 23:30:15.301 HelloWorld[6865:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-08 23:30:15.426 HelloWorld[6865:a0b] Resetting plugins due to page load.
+2013-10-08 23:30:15.461 HelloWorld[6865:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-08 23:31:11.548 HelloWorld[7381:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-08 23:31:11.658 HelloWorld[7381:a0b] Resetting plugins due to page load.
+2013-10-08 23:31:11.691 HelloWorld[7381:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:33:38.237 HelloWorld[8974:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:33:38.336 HelloWorld[8974:a0b] Resetting plugins due to page load.
+2013-10-09 00:33:38.368 HelloWorld[8974:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:38:48.786 HelloWorld[9551:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:38:48.905 HelloWorld[9551:a0b] Resetting plugins due to page load.
+2013-10-09 00:38:48.924 HelloWorld[9551:4103] ERROR whitelist rejection: url='http://www.blurjs.com/blur.min.js'
+2013-10-09 00:38:48.925 HelloWorld[9551:4103] ERROR whitelist rejection: url='http://www.blurjs.com/blur.min.js'
+2013-10-09 00:38:48.925 HelloWorld[9551:4103] ERROR whitelist rejection: url='http://www.blurjs.com/blur.min.js'
+2013-10-09 00:38:48.958 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:48.959 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:48.959 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:48.960 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/arrow.png'
+2013-10-09 00:38:48.960 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/arrow.png'
+2013-10-09 00:38:48.960 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/arrow.png'
+2013-10-09 00:38:49.061 HelloWorld[9551:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:38:53.538 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:53.538 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:53.539 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:56.711 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:56.712 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:38:56.712 HelloWorld[9551:4103] ERROR whitelist rejection: url='https://c9.io/coder01/ios-launchpad/workspace/img/search.png'
+2013-10-09 00:40:02.823 HelloWorld[9551:a0b] Resetting plugins due to page load.
+2013-10-09 00:40:02.848 HelloWorld[9551:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2013-10-09 00:40:04.513 HelloWorld[9551:a0b] Resetting plugins due to page load.
+2013-10-09 00:40:04.520 HelloWorld[9551:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2013-10-09 00:40:05.650 HelloWorld[9551:a0b] Resetting plugins due to page load.
+2013-10-09 00:40:05.681 HelloWorld[9551:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2013-10-09 00:40:06.199 HelloWorld[9551:a0b] Resetting plugins due to page load.
+2013-10-09 00:40:06.206 HelloWorld[9551:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2013-10-09 00:42:09.944 HelloWorld[10096:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:42:10.074 HelloWorld[10096:a0b] Resetting plugins due to page load.
+2013-10-09 00:42:10.111 HelloWorld[10096:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:44:35.561 HelloWorld[10643:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:44:35.648 HelloWorld[10643:a0b] Resetting plugins due to page load.
+2013-10-09 00:44:35.689 HelloWorld[10643:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:46:33.982 HelloWorld[11174:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:46:34.104 HelloWorld[11174:a0b] Resetting plugins due to page load.
+2013-10-09 00:46:34.134 HelloWorld[11174:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:47:16.499 HelloWorld[11703:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:47:16.610 HelloWorld[11703:a0b] Resetting plugins due to page load.
+2013-10-09 00:47:16.643 HelloWorld[11703:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:49:58.249 HelloWorld[12245:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:49:58.363 HelloWorld[12245:a0b] Resetting plugins due to page load.
+2013-10-09 00:49:58.396 HelloWorld[12245:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:52:54.263 HelloWorld[12794:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:52:54.387 HelloWorld[12794:a0b] Resetting plugins due to page load.
+2013-10-09 00:52:54.428 HelloWorld[12794:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:55:16.642 HelloWorld[13337:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:55:16.755 HelloWorld[13337:a0b] Resetting plugins due to page load.
+2013-10-09 00:55:16.800 HelloWorld[13337:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:55:44.998 HelloWorld[13848:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:55:45.087 HelloWorld[13848:a0b] Resetting plugins due to page load.
+2013-10-09 00:55:45.135 HelloWorld[13848:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:57:02.430 HelloWorld[14370:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:57:02.531 HelloWorld[14370:a0b] Resetting plugins due to page load.
+2013-10-09 00:57:05.111 HelloWorld[14370:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 00:58:19.999 HelloWorld[14902:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 00:58:20.119 HelloWorld[14902:a0b] Resetting plugins due to page load.
+2013-10-09 00:58:22.684 HelloWorld[14902:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 01:00:08.327 HelloWorld[15427:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 01:00:08.433 HelloWorld[15427:a0b] Resetting plugins due to page load.
+2013-10-09 01:00:10.738 HelloWorld[15427:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 01:00:12.630 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:15.893 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:17.117 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:23.033 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:23.305 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:25.028 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:28.486 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:00:28.773 HelloWorld[15427:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:01:21.250 HelloWorld[15948:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 01:01:21.361 HelloWorld[15948:a0b] Resetting plugins due to page load.
+2013-10-09 01:01:23.353 HelloWorld[15948:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 01:02:26.965 HelloWorld[16484:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 01:02:27.074 HelloWorld[16484:a0b] Resetting plugins due to page load.
+2013-10-09 01:02:29.074 HelloWorld[16484:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 01:02:56.489 HelloWorld[16994:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 01:02:56.595 HelloWorld[16994:a0b] Resetting plugins due to page load.
+2013-10-09 01:02:59.311 HelloWorld[16994:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 01:03:30.217 HelloWorld[17502:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 01:03:30.330 HelloWorld[17502:a0b] Resetting plugins due to page load.
+2013-10-09 01:03:32.748 HelloWorld[17502:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 01:03:36.756 HelloWorld[17502:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:03:38.434 HelloWorld[17502:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 01:04:47.081 HelloWorld[18022:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 01:04:47.175 HelloWorld[18022:a0b] Resetting plugins due to page load.
+2013-10-09 01:04:47.225 HelloWorld[18022:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 12:53:30.984 HelloWorld[27770:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 12:53:31.263 HelloWorld[27770:a0b] Resetting plugins due to page load.
+2013-10-09 12:53:31.353 HelloWorld[27770:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 12:56:26.022 HelloWorld[28362:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 12:56:26.143 HelloWorld[28362:a0b] Resetting plugins due to page load.
+2013-10-09 12:56:26.189 HelloWorld[28362:4103] ERROR whitelist rejection: url='http://localhost:8080/target/target-script-min.js#anonymous'
+2013-10-09 12:56:26.190 HelloWorld[28362:4103] ERROR whitelist rejection: url='http://localhost:8080/target/target-script-min.js#anonymous'
+2013-10-09 12:56:26.190 HelloWorld[28362:4103] ERROR whitelist rejection: url='http://localhost:8080/target/target-script-min.js#anonymous'
+2013-10-09 12:56:26.193 HelloWorld[28362:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:14:15.996 HelloWorld[29177:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:14:16.117 HelloWorld[29177:a0b] Resetting plugins due to page load.
+2013-10-09 13:14:16.155 HelloWorld[29177:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:24:34.494 HelloWorld[29803:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:24:34.606 HelloWorld[29803:a0b] Resetting plugins due to page load.
+2013-10-09 13:24:34.643 HelloWorld[29803:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:25:17.249 HelloWorld[30319:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:25:17.359 HelloWorld[30319:a0b] Resetting plugins due to page load.
+2013-10-09 13:25:17.397 HelloWorld[30319:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:33:30.636 HelloWorld[30963:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:33:30.780 HelloWorld[30963:a0b] Resetting plugins due to page load.
+2013-10-09 13:33:30.818 HelloWorld[30963:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:34:04.109 HelloWorld[31477:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:34:04.231 HelloWorld[31477:a0b] Resetting plugins due to page load.
+2013-10-09 13:34:04.268 HelloWorld[31477:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:35:07.598 HelloWorld[31991:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:35:07.712 HelloWorld[31991:a0b] Resetting plugins due to page load.
+2013-10-09 13:35:07.750 HelloWorld[31991:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:35:11.789 HelloWorld[31991:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 13:35:12.775 HelloWorld[31991:a0b] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/about'
+2013-10-09 13:40:33.598 HelloWorld[32568:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:40:33.718 HelloWorld[32568:a0b] Resetting plugins due to page load.
+2013-10-09 13:40:33.759 HelloWorld[32568:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:41:22.653 HelloWorld[33078:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:41:22.762 HelloWorld[33078:a0b] Resetting plugins due to page load.
+2013-10-09 13:41:22.798 HelloWorld[33078:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:43:23.251 HelloWorld[33626:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:43:23.364 HelloWorld[33626:a0b] Resetting plugins due to page load.
+2013-10-09 13:43:23.404 HelloWorld[33626:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 13:44:26.978 HelloWorld[34148:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 13:44:27.096 HelloWorld[34148:a0b] Resetting plugins due to page load.
+2013-10-09 13:44:27.138 HelloWorld[34148:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 19:07:30.443 HelloWorld[42479:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 19:07:30.688 HelloWorld[42479:a0b] Resetting plugins due to page load.
+2013-10-09 19:07:30.756 HelloWorld[42479:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 19:07:30.844 HelloWorld[42479:4103] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/landing'
+2013-10-09 19:07:30.844 HelloWorld[42479:4103] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/landing'
+2013-10-09 19:07:30.846 HelloWorld[42479:4103] ERROR whitelist rejection: url='http://hack-app.aws.af.cm/landing'
+2013-10-09 19:49:10.603 HelloWorld[43674:a0b] Multi-tasking -> Device: YES, App: YES
+2013-10-09 19:49:10.734 HelloWorld[43674:a0b] Resetting plugins due to page load.
+2013-10-09 19:49:10.778 HelloWorld[43674:a0b] Finished load of: file:///Users/leipazapalli/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/C37A429E-15D9-4C0F-AAB2-F0237718EAF4/HelloWorld.app/www/index.html
+2013-10-09 19:49:10.820 HelloWorld[43674:4103] ERROR whitelist rejection: url='http://crowdgive.aws.af.cm/landing'
+2013-10-09 19:49:10.821 HelloWorld[43674:4103] ERROR whitelist rejection: url='http://crowdgive.aws.af.cm/landing'
+2013-10-09 19:49:10.822 HelloWorld[43674:4103] ERROR whitelist rejection: url='http://crowdgive.aws.af.cm/landing'
